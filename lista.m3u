@@ -1,8 +1,31 @@
 #EXTM3U x-tvg-url=""
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_Logo.svg/512px-AXN_Logo.svg.png" group-title="Filmes e Séries",AXN
+https://cdn-5.nxplay.com.br/AXN_TK/index.m3u8
+
+#EXTINF:-1 tvg-id="sbt.sp" tvg-name="SBT SP" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-8.png" group-title="TV Aberta",SBT SP
+https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="record.news" tvg-name="Record News" tvg-logo="https://logodownload.org/wp-content/uploads/2017/03/record-news-logo.png" group-title="Noticias",Record News
+https://origin-fast.b-cdn.net/RECORD_NEWS/tracks-v2a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="cartoon.network" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="Infantil",Cartoon Network
+https://cdn-3.nxplay.com.br/CARTOON_NETWORK_TK/tracks-v2a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="discovery.hh" tvg-name="Discovery Home & Health" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Discovery_H%26H_logo.svg/512px-Discovery_H%26H_logo.svg.png" group-title="Variedades",Discovery Home & Health
+https://cdn-3.nxplay.com.br/DISCOVERY_HH_NX/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="discovery.kids" tvg-name="Discovery Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Discovery_Kids_logo.svg/512px-Discovery_Kids_logo.svg.png" group-title="Infantil",Discovery Kids
+https://origin-fast.b-cdn.net/DISCOVERY_KIDS_NX/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/TLC_Logo.svg/512px-TLC_Logo.svg.png" group-title="Variedades",TLC
+https://origin-fast.b-cdn.net/TLC/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1 tvg-type="movie" group-title="VOD" tvg-logo="https://image.tmdb.org/t/p/w500/vh6pjeGH0GQupLepPCZn5PylcRg.jpg",Batman vs Superman: A Origem da Justiça
 http://giantofthefuture.gleeze.com:25461/movie/colepty1679/Hbplloxye/4636.mp4
+
 #EXTINF:-1 tvg-type="movie" group-title="VOD" tvg-logo="https://image.tmdb.org/t/p/w500/A4kvp7vY1BDLrrQIagRCffLKj1t.jpg",Vingadores: Guerra Infinita
 https://fcoidok.cisantkdh.com/vod/146DAA9218A349C990D04CF46F7BDA2B_media.mp4
+
 #EXTINF:-1 tvg-type="movie" group-title="VOD" tvg-logo="https://image.tmdb.org/t/p/w500/tAbbJPbRnY8TRwFure08S7SWnM9.jpg",O Bom Gigante Amigo
 https://www-fontedecanais-me.58ioec50wtok71.com/movies/28/21248.mp4?username=Thebest-vods&token=C1EQAgcOWlBaW0dLVVJeXE9SR04FAAEZBAoVD0lWUicMDggOCx5GGh8XF0lGSRULEzMTHAoFDwgMAwQCA1FeSVhbSEhHThISCg8dAhweA05KS0pcRkkbBQUYFR0QNAMPWlBdWEdDU1oX
 #EXTINF:-1 tvg-type="movie" group-title="VOD" tvg-logo="https://image.tmdb.org/t/p/w500/7FBnCkYzHlVHEtuzTEiGgFhs8EQ.jpg",Como Mágica
