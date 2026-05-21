@@ -2,10 +2,10 @@
 #EXTINF:-1 tvg-id="axn.br" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_Logo.svg/512px-AXN_Logo.svg.png" group-title="Filmes e Séries",AXN
 https://cdn-5.nxplay.com.br/AXN_TK/index.m3u8
 
-#EXTINF:-1 tvg-id="sbt.sp" tvg-name="SBT SP" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-8.png" group-title="TV Aberta",SBT SP
+#EXTINF:-1 tvg-id="sbt.sp" tvg-name="SBT SP" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-8.png" group-title="Canais",SBT SP
 https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="record.news" tvg-name="Record News" tvg-logo="https://logodownload.org/wp-content/uploads/2017/03/record-news-logo.png" group-title="Noticias",Record News
+#EXTINF:-1 tvg-id="record.news" tvg-name="Record News" tvg-logo="https://logodownload.org/wp-content/uploads/2017/03/record-news-logo.png" group-title="Canais"",Record News
 https://origin-fast.b-cdn.net/RECORD_NEWS/tracks-v2a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="cartoon.network" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="Infantil",Cartoon Network
