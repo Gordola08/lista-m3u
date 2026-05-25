@@ -1,29 +1,20 @@
 #EXTM3U x-tvg-url=""
-
-#EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO SP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_Logo.svg/512px-AXN_Logo.svg.png" group-title="Canais",GLOBO SP
+#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="GLOBO SP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_Logo.svg/512px-AXN_Logo.svg.png" group-title="Canais | Canais",GLOBO SP
 https://origin-fast.b-cdn.net/GLOBO_SP_TK/index.m3u8
-
-#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_Logo.svg/512px-AXN_Logo.svg.png" group-title="Canais",AXN
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_Logo.svg/512px-AXN_Logo.svg.png" group-title="Canais | Canais",AXN
 https://cdn-5.nxplay.com.br/AXN_TK/index.m3u8
-
-#EXTINF:-1 tvg-id="sbt.sp" tvg-name="SBT SP" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-8.png" group-title="Canais",SBT SP
+#EXTINF:-1 tvg-id="sbt.sp.br" tvg-name="SBT SP" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-8.png" group-title="Canais | Canais",SBT SP
 https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="record.news" tvg-name="Record News" tvg-logo="https://logodownload.org/wp-content/uploads/2017/03/record-news-logo.png" group-title="Canais"",Record News
+#EXTINF:-1 tvg-id="record.news.br" tvg-name="Record News" tvg-logo="https://logodownload.org/wp-content/uploads/2017/03/record-news-logo.png" group-title="Canais | Canais",Record News
 https://origin-fast.b-cdn.net/RECORD_NEWS/tracks-v2a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="cartoon.network" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="Infantil",Cartoon Network
+#EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="Canais | Infantil",Cartoon Network
 https://cdn-3.nxplay.com.br/CARTOON_NETWORK_TK/tracks-v2a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="discovery.hh" tvg-name="Discovery Home & Health" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Discovery_H%26H_logo.svg/512px-Discovery_H%26H_logo.svg.png" group-title="Variedades",Discovery Home & Health
+#EXTINF:-1 tvg-id="discovery.home.health.br" tvg-name="Discovery Home & Health" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Discovery_H%26H_logo.svg/512px-Discovery_H%26H_logo.svg.png" group-title="Canais | Variedades",Discovery Home & Health
 https://cdn-3.nxplay.com.br/DISCOVERY_HH_NX/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="discovery.kids" tvg-name="Discovery Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Discovery_Kids_logo.svg/512px-Discovery_Kids_logo.svg.png" group-title="Infantil",Discovery Kids
+#EXTINF:-1 tvg-id="discovery.kids.br" tvg-name="Discovery Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Discovery_Kids_logo.svg/512px-Discovery_Kids_logo.svg.png" group-title="Canais | Infantil",Discovery Kids
 https://origin-fast.b-cdn.net/DISCOVERY_KIDS_NX/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/TLC_Logo.svg/512px-TLC_Logo.svg.png" group-title="Variedades",TLC
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/TLC_Logo.svg/512px-TLC_Logo.svg.png" group-title="Canais | Variedades",TLC
 https://origin-fast.b-cdn.net/TLC/tracks-v1a1/mono.ts.m3u8
-
 #EXTINF:-1 tvg-type="series" group-title="Series" tvg-logo="https://image.tmdb.org/t/p/w500/sWgBv7LV2PRoQgkxwlibdGXKz1S.jpg",[Disney+] The Mandalorian S01E01
 https://pub-c206282897804a3b9e6a02ee2bb6be36.r2.dev/SERIES/themandalorian/tp1/ep1.mkv
 #EXTINF:-1 tvg-type="series" group-title="Series" tvg-logo="https://image.tmdb.org/t/p/w500/sWgBv7LV2PRoQgkxwlibdGXKz1S.jpg",[Disney+] The Mandalorian S01E02
