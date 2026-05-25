@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url=""
-#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_Logo.svg/512px-AXN_Logo.svg.png" group-title="Cnais",AXN
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_Logo.svg/512px-AXN_Logo.svg.png" group-title="Canais",AXN
 https://cdn-5.nxplay.com.br/AXN_TK/index.m3u8
 
 #EXTINF:-1 tvg-id="sbt.sp" tvg-name="SBT SP" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-8.png" group-title="Canais",SBT SP
